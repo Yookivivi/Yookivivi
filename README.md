@@ -1,4 +1,6 @@
-<h1>Hi 👋, I'm Yujing</h1>
-<h3>A passionate HCI developer from China</h3>
+<h1>Hi 👋, I'm Yujing (Yooki)</h1>
+<h3>A HCI student from China</h3>
 
-- 🔭 I’m intereted in **"robotics" and "HCI**, especially on how the expression of intelligent embodied agency (AI/robots) influences human perception
+- 👩‍🎓 Graduated from the Hong Kong Polytechnic University with a major in computer science.
+- 🧠 Pursuing a master's degree in Interactive Media Technology at KTH Royal Institute of Technology.
+- 🔭  Interested in **"robotics"** and **"HCI"**, specifically how intelligent embodied agency (AI/robots) affects human perception.
