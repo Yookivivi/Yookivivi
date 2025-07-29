@@ -1,6 +1,12 @@
-<h1>Hi 👋, I'm Yujing (Yooki)</h1>
-<h3>A HCI student from China</h3>
+<h1>Hi 👋, I'm Yujing (Yooki) Zhang</h1>
+<h3>A Human-Computer Interaction (HCI) Researcher from China</h3>
 
-- 👩‍🎓 Bachelor's degree in computer science at the Hong Kong Polytechnic University.
-- 👩‍🎓 Master's degree in Interactive Media Technology at KTH Royal Institute of Technology.
-- 🔭  Interested in **"robotics"** and **"HCI"**, specifically how intelligent embodied agency (AI/robots) affects human perception in the scenarios of learning and family settings.
+<ul>
+  <li>👩‍🎓 Bachelor's degree in Computer Science from The Hong Kong Polytechnic University</li>
+  <li>👩‍🎓 Master's student in Interactive Media Technology at KTH Royal Institute of Technology, Sweden</li>
+</ul>
+
+<p>I'm passionate about <strong>HCI</strong> and <strong>Social Robotics</strong>, with a research focus on how <strong>intelligent embodied agents (AI/robots)</strong> influence human behavior, perception, and collaboration. I'm particularly interested in how embodiment agents in <strong>family and educational settings</strong>. 
+
+
+<p>📫 Feel free to reach out or connect!</p>
